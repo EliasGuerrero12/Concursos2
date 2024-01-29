@@ -16,5 +16,10 @@ namespace Concursos2.Forms
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
